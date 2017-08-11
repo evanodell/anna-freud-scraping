@@ -1,0 +1,2040 @@
+
+
+
+What we do
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+What we do
+
+
+
+ 
+Interchange Sheffield is an emotional well-being service for children and young people under 25. We provide a range of interventions aimed at supporting their emotional well-being and mental health, including counselling, art therapy, therapeutic group work, resilience building and mental health aware-ness raising workshops. We are deeply committed to young people’s involvement. We provide participation opportunities for young people, and our service user group, the Mental Health Ambassadors, helps to steer our organisation.
+ 
+ 
+ 
+
+PLEASE BEAR WITH US WHILE OUR WEBSITE GOES UNDER SOME MUCH NEEDED MAINTENANCE
+PLEASE FEEL FREE TO GET IN CONTACT WITH US VIA OUR ‘CONTACT US’ PAGE
+THANKS
+THE INTERCHANGE TEAM
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+What we do
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+What we do
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+
+Interchange Counselling
+
+You have a right to feel alright
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+Interchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+Interchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+
+Right Here
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+404 - PAGE NOT FOUND
+
+
+
+
+
+
+
+
+
+
+
+ERROR 404 - PAGE NOT FOUND
+
+
+
+Why am I seeing this page?
+
+404 means the file is not found. If you have already uploaded the file then the name may be misspelled or it is in a different folder.
+Other Possible Causes
+You may get a 404 error for images because you have Hot Link Protection turned on and the domain is not on the list of authorized domains.
+If you go to your temporary url (http://ip/~username/) and get this error, there maybe a problem with the rule set stored in an .htaccess file. You can try renaming that file to .htaccess-backup and refreshing the site to see if that resolves the issue.
+It is also possible that you have inadvertently deleted your document root or the your account may need to be recreated. Either way, please contact your web host immediately.
+Are you using WordPress? See the Section on 404 errors after clicking a link in WordPress.
+
+
+
+How to find the correct spelling and folder
+
+Missing or Broken Files
+When you get a 404 error be sure to check the URL that you are attempting to use in your browser.This tells the server what resource it should attempt to request.
+http://example.com/example/Example/help.html
+In this example the file must be in public_html/example/Example/
+Notice that the CaSe is important in this example. On platforms that enforce case-sensitivity example and Example are not the same locations.
+For addon domains, the file must be in public_html/addondomain.com/example/Example/ and the names are case-sensitive.
+Broken Image
+When you have a missing image on your site you may see a box on your page with with a red X where the image is missing. Right click on the X and choose Properties. The properties will tell you the path and file name that cannot be found.
+This varies by browser, if you do not see a box on your page with a red X try right clicking on the page, then select View Page Info, and goto the Media Tab.
+http://example.com/cgi-sys/images/banner.PNG
+In this example the image file must be in public_html/cgi-sys/images/
+Notice that the CaSe is important in this example. On platforms that enforce case-sensitivity PNG and png are not the same locations.
+
+
+
+404 Errors After Clicking WordPress Links
+
+When working with WordPress, 404 Page Not Found errors can often occur when a new theme has been activated or when the rewrite rules in the .htaccess file have been altered.
+When you encounter a 404 error in WordPress, you have two options for correcting it.
+Option 1: Correct the Permalinks
+
+Log in to WordPress.
+From the left-hand navigation menu in WordPress, click Settings > Permalinks (Note the current setting. If you are using a custom structure, copy or save the custom structure somewhere.)
+Select  Default.
+Click Save Settings.
+Change the settings back to the previous configuration (before you selected Default). Put the custom structure back if you had one.
+Click Save Settings.
+
+This will reset the permalinks and fix the issue in many cases. If this doesn't work, you may need to edit your .htaccess file directly.
+Option 2: Modify the .htaccess File
+Add the following snippet of code to the top of your .htaccess file:
+
+
+										# BEGIN WordPress
+										<IfModule mod_rewrite.c>
+										RewriteEngine On
+										RewriteBase /
+										RewriteRule ^index.php$ - [L]
+										RewriteCond %{REQUEST_FILENAME} !-f
+										RewriteCond %{REQUEST_FILENAME} !-d
+										RewriteRule . /index.php [L]
+										</IfModule>
+										# End WordPress
+									
+
+If your blog is showing the wrong domain name in links, redirecting to another site, or is missing images and style, these are all usually related to the same problem: you have the wrong domain name configured in your WordPress blog.
+
+
+
+How to modify your .htaccess file
+
+The .htaccess file contains directives (instructions) that tell the server how to behave in certain scenarios and directly affect how your website functions.
+Redirects and rewriting URLs are two very common directives found in a .htaccess file, and many scripts such as WordPress, Drupal, Joomla and Magento add directives to the .htaccess so those scripts can function.
+It is possible that you may need to edit the .htaccess file at some point, for various reasons.This section covers how to edit the file in cPanel, but not what may need to be changed.(You may need to consult other articles and resources for that information.)
+There are Many Ways to Edit a .htaccess File
+
+Edit the file on your computer and upload it to the server via FTP
+Use an FTP program's Edit Mode
+Use SSH and a text editor
+Use the File Manager in cPanel
+
+The easiest way to edit a .htaccess file for most people is through the File Manager in cPanel.
+How to Edit .htaccess files in cPanel's File Manager
+Before you do anything, it is suggested that you backup your website so that you can revert back to a previous version if something goes wrong.
+Open the File Manager
+
+Log into cPanel.
+In the Files section, click on the File Manager icon.
+Check the box for Document Root for and select the domain name you wish to access from the drop-down menu.
+Make sure Show Hidden Files (dotfiles)" is checked.
+Click Go. The File Manager will open in a new tab or window.
+Look for the .htaccess file in the list of files. You may need to scroll to find it.
+
+To Edit the .htaccess File
+
+Right click on the .htaccess file and click Code Edit from the menu. Alternatively, you can click on the icon for the .htaccess file and then click on the Code Editor icon at the top of the page.
+A dialogue box may appear asking you about encoding. Just click Edit to continue. The editor will open in a new window.
+Edit the file as needed.
+Click Save Changes in the upper right hand corner when done. The changes will be saved.
+Test your website to make sure your changes were successfully saved. If not, correct the error or revert back to the previous version until your site works again.
+Once complete, you can click Close to close the File Manager window.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interchange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+Interchange
+
+
+Counselling and psychotherapy - they seem to have negative connotations and be looked down on for some reason – but we’re here to change this!
+We want everyone to understand what we know; that you don’t have to be crazy to be in therapy, but whatever you’re looking for it can help.  From workshops to boxing and fundraising, we offer a range of activities – and we get food!
+As well as offering activities to young people we work to improve the existing counselling facilities here at Interchange.  Our group started off from a great Creative Therapy group and we’ve all had personal therapy at one point or another.
+Come and talk to us and see how we can help you. We don’t bite… promise! We meet on the last Tuesday of every month and we’re always looking for new members.
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+STAMP
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+STAMP
+
+
+What is STAMP?
+STAMP is the young people’s panel of Right Here, coordinated by Laura Abbott and Chantelle Parke from Chilypep (Children & Young People’s Empowerment Project). STAMP have been helping to steer the project since the start, as well as gaining the voice of young people around mental health. STAMP were involved in identifying mental health as a key issue for young people, writing the project bid, and interviewing and employing workers for the project. They have helped design and develop the therapeutic group work activities that the emotional well being workers deliver to young people across Sheffield, and have also been involved in planning delivery and strategic aims on an annual basis. STAMP get together once a week to work together to campaign for change around the mental health and emotional wellbeing of other young people.
+ 
+STAMP Out Stigma!
+We also work on our own projects, including our campaign ‘STAMP out stigma’. As part of this we have raised awareness amongst other young people about mental health and carried out peer research around mental health and stigma. We designed and produced our own board game ‘Dare you Share?’ which is based on a theme park to show the ups and downs young people experience. The game aims to promote discussion around mental health in a fun and interactive way and is being used by youth groups and schools in Sheffield and in some other areas of the UK. We also designed and produced anti-stigma postcards with the slogans ‘Mental Health is a part of you, not apart from you’ and ‘What is normal anyway?’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+If you would like to trial ‘Dare you Share?’ with your school or youth group then please get in touch to request a copy!
+ 
+Improving mental health services for young people!
+We really want to improve mental health services and support for young people aged 16-25. We are working with CAMHS (Children and Adolescent Mental Health Services) in Sheffield to implement the Department of Health’s ‘You’re Welcome’ standards to make CAMHS more young people friendly. We have all been trained to be young evaluators and have been carrying out inspections into CAMHS.
+We’re also working with IAPT (Improving Access to Psychological Therapies) in Sheffield to look at the experiences that young people have had around accessing support in order to improve this service so that it meets the needs of young people. This will also mean working with professionals across the City to promote the service and working with IAPT staff to help them be able to better support young people.
+ 
+Have a voice and a choice in your mental health!
+Soon we will be carrying out focus groups with young people across the City to find out what the main issues for young people are, and what mental health support they feel they need. This will be collated into a manifesto which will be central to our campaign looking at Stamping out stigma and improving mental health support for young people across the City and hopefully across the UK too.
+ 
+How to get involved / how to join STAMP
+Whether you are a professional that would like to speak to us about young people’s mental health and mental health services, or a young person who would like to feed in your views and experiences then we would love to hear from you! We are always looking for new members aged 16-25 who are passionate about mental health for young people and want to make a difference!
+
+Contact details
+If you’d like to find out more about STAMP you can email us, ring us on 07966 454451 or find us on Facebook.  
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+Useful Website Links
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+Useful Website Links
+
+
+The Mental Health Foundation 
+The Mental Health Foundation are committed to reducing the suffering caused by mental ill health and to help everyone lead mentally healthier lives.
+They help people to survive, recover from and prevent mental health problems. They do this by:
+
+carrying out research
+developing practical solutions for better mental health services
+campaigning to reduce stigma and discrimination
+promoting better mental health for us all.
+
+They work across all age ranges and all aspects of mental health. We are the charity for everyone’s mental wellbeing.
+Sheffield Mind
+Sheffield Mind is an independent charity set up in 1971. We are part of a large network of over 170 local Mind associations across England and Wales which are affiliated to Mind nationally (mind.org.uk).
+They believe that good mental health is fundamental to living a healthy and fulfilling life and to having positive relationships with those around us. They recognise the close link between physical and mental health and offer a range of services and support to enable people to lead healthy and fulfilling lives. They also believe that everyone can do a lot to improve their mental health and promote self help and empowerment as a route to prevention and recovery. By providing support tailored to each individual’s need they can help people overcome their difficulties, become more emotionally resilient and more able to cope positively in the future.
+Epic Friends                                                
+Epic Friends – Both Sheffield City Council and Department of Health figures indicate that mental health issues amongst 12 to 16 year olds are common. Although there are specialist services to support young people with serious mental health problems, everyone can play a part in identifying and supporting young people experiencing difficulties. Often young people turn to their friends for help, or it’s friends who notice that someone seems to be stressed or struggling.
+It’s for these reasons the Children’s Hospital Charity funded a project with the CAMHS (Child and Adolescent Mental Health Services) Team in Sheffield, part of the Sheffield Children’s NHS Foundation Trust to develop a website to help young people help their friends they think may have mental health problems. (Of course, young people can use the site to find out about difficulties they’re experiencing, and parents, teachers and others can also use it for information and advice).
+Paul Hamlyn Foundation                                                 
+Paul Hamlyn Foundation was founded in 1987. During 2012/13 we are marking the Foundation’s 25th anniversary with a series of gifts to organisations we know well and whose work makes a big impact by helping people to realise their potential and enjoy a better quality of life.
+CAMHS                     
+Our Child and Adolescent Mental Health Service (CAMHS) provides a comprehensive and high quality service to children and young people experiencing difficulties which are seriously impacting on their mental health and emotional well being.
+Children and young people can be referred when they are encountering severe difficulties that require specialist mental health services not provided in primary care. This specialist service extends to families and carers.
+Interventions range in intensity from consultation to other professionals through to inpatient treatment. There is a 24 hour, seven-days-a-week psychiatric on-call service.
+The CAMHS service works in partnership with colleagues in other departments throughout the Trust and with other agencies and the voluntary sector.
+Citizens Advice Bureau                     
+The Citizens Advice service helps people resolve their legal, money and other problems by providing free, independent and confidential advice, and by influencing policymakers.
+Sheffield Young Carers                     
+Sheffield Young Carers is an independent charity that has existed in Sheffield since 1997. We are dedicated to supporting young carers across the city. We believe it is a right of every young carer to be recognised in their role and to have the same opportunities and life chances as other children and young people of a similar age.
+Activity Sheffield                                        
+Activity Sheffield offer a wide range of activities aimed at getting the people of Sheffield more active, more often. The activities range from zumba to cheerleading, football to street kick, face painting to bug hunting.
+Sheffield Help Yourself                            
+Help Yourself is an online directory of community groups, support groups, health and social care organisations in Sheffield. Here you will find leisure activities such as dancing, drama, reading and writing groups, art, music and youth clubs. You will find sports activities such as martial arts, yoga and pilates, rambling, swimming, keep fit, cycling, cricket, boxing. You will find groups for older people, people with mental health issues, learning disabilities, physical disabilities, homeless people, asylum seekers, refugees. You will find self help and support groups for drugs and alcohol, domestic violence, carers, gay lesbian and bisexual people, people with alzheimers, dementia and other health conditions.
+You can also plan your care and support and find home care/home support, residential care, respite care, lunch clubs and support if you receive an individual budget or direct payment. You can also find details of places of worship whatever your faith, recycling facilities and conservation groups, community centres, Taras, venues for hire, private tutors, literacy and numeracy and so much more.
+Sheffield Mental Health Guide                    
+Being physically and mentally healthy is important to all of us to enable us to lead an active and fulfilling life. The Sheffield Mental Health Guide website will help you find information and support to help maintain good mental health.
+Your Health Matters-Helping Sheffield stay healthy  
+Join the Sheffield Big Health Jigsaw by pledging to make one small change to your lifestyle. This could be anything from walking to work, giving up smoking or eating your 5 a day. Make your pledge now and help us make a huge difference to both yourself and your NHS.
+Young Minds
+Young Minds is the UK’s leading charity committed to improving the emotional well being and mental health of children and young people.
+Re think
+Re think is the largest voluntary sector provider of mental health services with over 200 services in England. Founded 40 years ago through voluntary groups for people affected by mental illness, we have over 100 groups in England.
+National Self Harm Network
+National Self Harm Network is the lead UK charity offering support, advice and advocacy services to people affected by self harm directly or in a care role
+It’s Good to Talk
+It’s Good to Talk – Sometimes its difficult to say what’s on your mind. Talking to a therapist can help you cope with difficulty and make positive change.
+The British Association for Counselling & Psychotherapy (BACP) is a membership organisation and a registered charity that sets standards for therapeutic practice and provides information for therapists, clients of therapy, and the general public. BACP has over 33,500 members who are counsellors and/or psychotherapists who work to BACP standards set out in the BACP Ethical Framework for Good Practice in Counselling and Psychotherapy.
+BACP believes it is important that people understand what counselling and psychotherapy is about and what they should expect from the process of therapy. Raising awareness among society is therefore an essential aim for the organisation. Their website has been designed by BACP to help people find out more about counselling and psychotherapy, especially those who are considering therapy as an option for themselves or someone else, or for clients who are already involved in therapy.
+Hicanwehelp
+Hicanwehelp – Are you affected by drug use and need to be better connected? The hi team can save your partnership time and money.  Contact them to find out how membership can help you.
+ChildLine
+ChildLine  is a private and confidential service for children and young people up  to the age of nineteen. You can contact a ChildLine counsellor about anything  - no problem is too big or too small. Call free on 0800 1111, have a 1-2-1 chat
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+What is mental health?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+What is mental health?
+
+
+Mental health is something that we all have. Some people call mental health ‘emotional health’ or ‘well being’ and it’s just as important as good physical health.
+According to the Mental Health Foundation (one of our funders):
+Being mentally healthy doesn’t just mean that you don’t have mental health problems
+If you’re in good mental health you can:
+
+Make the most of your potential
+Cope with life
+Play a full part in your family, workplace, community and among friends
+
+Mental health is everyone’s business. We all have times when we feel down or stressed and frightened. Most of the time those feelings pass. But sometimes they develop into a more serious problem and that could happen to any one of us.
+Everyone is different. You may bounce back from a setback while someone else may feel weighed down by it for a long time. It’s important to remember that your mental health doesn’t always stay the same. It can change as circumstances change and as you move through different stages of your life.
+Unfortunately, there is still a stigma attached to mental health problems. This means that people feel uncomfortable about them and don’t talk about them much. Many people don’t even feel comfortable talking about their feelings. But it’s healthy to know and say how you’re feeling.
+We are working with young people to help them start to think about their emotional well being and to begin to talk about mental health and how they feel. Our activities are also aimed at helping to improve young peoples self esteem, confidence and resilience.
+WHAT IS RESILIENCE?
+Resilience is our ability to cope with life’s problems and setbacks and tackle them head on. If we have good resilience we are more able to quickly bounce back from difficult times. For those of us who lack resilience, life’s problems can sometimes become overwhelming and leave us feeling distressed and unable to cope. The good news is that we can all learn new skills to become more resilient. The activities we run are aimed at helping you to develop better resilience. We have lots of top tips to help you look after your mental health and emotional well being.
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+Advice and Top Tips
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+Advice and Top Tips
+
+
+How to Look After Your Mental Health
+The Mental Health Foundation have put together ten practical ways to look after your mental health. Making simple changes to how you live doesn’t need to cost a fortune or take up loads of time. Anyone can follow this advice. Click on the headings to be taken to a tip from the Mental Health Foundation website.
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+Activities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+Activities
+
+
+Mental Health Ambassadors
+Right Here Sheffield works with a group of young people, some who have experienced mental health problems, to support the work of the project with their peers. They encourage mental health awareness and coping strategies; promote the project with information stalls; support emotional well being workers delivering projects and involve themselves in relevant opportunities as they arise.
+They act as advocates and role models for other young people in the city.
+We have a group of between 10 and 12 ambassadors trained up at any time supporting the work of Right Here with their peers. They gain confidence and skills to build their own resilience and to advocate this to others.
+
+Building Bridges
+The ‘Building Bridges to Employment’ programme intends to support the emotional wellbeing of young people not in education, employment or training. We focus on developing self awareness, self-esteem, confidence and motivation to advance the journey into work.
+We create an environment where young people feel valued, their contribution encouraged and seen as useful for the whole group’s progress.
+ 
+Cage the Rage
+Cage the Rage is a experiential therapeutic group which allows young people to really explore the root causes of their anger. It also gives young people the coping skills to cope with their anger. We engage young people in this work through the use of  creative techniques, games, role playing and strategies in how to support themselves and each other within the group.
+We know from previous evaluations of our activities that young people really value the opportunity to share feelings and thoughts around issues of mental health and well being and we create space for young people to do this.
+The facilitators are trained counsellors and therapists who have worked with young people in group settings and on a 1:1 basis. They are therefore experienced in understanding complex needs and issues that young people face. The space will be supportive and sensitive to the needs of young people allowing time for expression and discussion.
+We create an environment where young people feel valued, their contribution encouraged and seen as useful for the whole group’s progress.
+Y-Act
+Y-Act is a user group for the Interchange CIC Counselling Service and Sheffield Right Here and it meets once a month to look at ways of improving mental health services for young people in the city. Last year the group worked with local artist Vicky Morris to write poems and conduct interviews about their use of services.  The work can be seen here and shows a real understanding of what young people aged 16 – 25 need to support their emotional wellbeing and mental health and we plan to reproduce this in Right Here’s final report for commissioners and key decision makers in Sheffield.
+This year we have a new group of young people who have done some team building activities and wish to become a fund raising and awareness raising team for the Interchange Counselling Service.  The group will also be contributing to this website – so watch this space.
+
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+You have a right to feel alright
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+
+You have a right to feel alright
+by admin on September 13, 2011
+
+
+What does mental health mean to you? For many young people the phrase is meaningless, and as much as ones physical health is looked after, the same cannot be said for their mental health.
+So what is mental health? The way you behave, and the way you feel are all down to your mental health. Whether you feel happy, bored, or sad, it is due to your mental health. When you feel good about yourself you don’t really pay attention to your mental health, however when you feel low and negative about yourself you tend to think about it more.
+If you feel down, lonely, or sad for a prolonged period of time, you do not have to put up with it. You don’t deserve to feel this way. There are places for you to go, things that you can do to make yourself feel better. Just as we are all prone to catching a cough or a cold, we are also prone to experiencing some sort of emotional distress.
+Feeling as if you need to talk to somebody about your feelings, is not something to be embarrassed about. Think about it as taking medicine for your mind, its the sensible thing to do when you have too much on your plate. There is no short supply to the places you can go for help, a place that I have found of great use in times of need is the Interchange Counselling service.
+During a time in which I felt like I needed extra support I turned to a professional. Over approximately a two month period I attended weekly sessions at the Interchange Counselling service. It wasn’t like any of the counselling sessions I had experienced before, where I never felt like I had truly explored my thoughts and feelings. During my first session, I rated myself on a scale of one to ten for various things such as thinking positively, self esteem etc. Throughout my experience at the Interchange I was talked to as an equal, and my counsellor helped me realise where my issues lay. I had been told time and time again what was wrong with me, but at the Interchange I saw it for myself, which in turn helped me to help myself. At the end of my time at the Interchange, I rated myself on my self esteem and positive thinking yet again. I had drastically improved, and I was in shock at how low I had ranked myself before.
+It is through embracing my own mental health, both the good and the bad, that I have been able to receive help and recover during times of need. Everyone should be able to do this, regardless of your race, religion, gender or orientation, you have mental health and you have a right to look after it.
+Written by one of the Y-Act Service Users. Click here to find out more about Y-Act.
+
+
+About the author
+ 
+
+
+
+
+
+
+
+Cancel reply Leave a Comment
+
+
+Name *
+E-mail *
+Website
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Previous post: New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+How to look after your mental health
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+How to look after your mental health
+
+
+THE MENTAL HEALTH FOUNDATION HAVE PUT TOGETHER 10 PRACTICAL WAYS TO LOOK AFTER YOUR MENTAL HEALTH.
+Making simple changes to how you live your life doesn’t need to cost a fortune or take up loads of time. Anyone can follow this advice.
+1.     TALK ABOUT YOUR FEELINGS
+Talking about your feeling can help you stay in good mental health and deal with times when you feel troubled. Talking about your feelings isn’t a sign of weakness. It’s part of taking charge of your wellbeing and doing what you can to stay healthy.
+Talking can be a way to cope with a problem you’ve been carrying around in your head for a while. Just being listened to can help you to feel supported and less alone. And it works both ways. If you open up, it might encourage others to do the same.
+It’s not always easy to describe how you’re feeling. If you can’t think of one word, use lots. What does it feel like inside your head? What does it make you feel like doing?
+You don’t need to sit your loved ones down for a big conversation about your wellbeing. Many people feel more comfortable when these conversations develop naturally – maybe when you’re doing something together.
+It feels awkward at first, give it time. Make talking about your feelings something that you do.
+<!––nextpage––>
+2.     BE NICE TO OTHERS
+Talking about your feeling can help you stay in good mental health and deal with times when you feel troubled. Talking about your feelings isn’t a sign of weakness. It’s part of taking charge of your wellbeing and doing what you can to stay healthy.
+Talking can be a way to cope with a problem you’ve been carrying around in your head for a while. Just being listened to can help you to feel supported and less alone. And it works both ways. If you open up, it might encourage others to do the same.
+It’s not always easy to describe how you’re feeling. If you can’t think of one word, use lots. What does it feel like inside your head? What does it make you feel like doing?
+You don’t need to sit your loved ones down for a big conversation about your wellbeing. Many people feel more comfortable when these conversations develop naturally – maybe when you’re doing something together.
+It feels awkward at first, give it time. Make talking about your feelings something that you do.
+
+
+
+
+
+Cancel reply Leave a Comment
+
+
+Name *
+E-mail *
+Website
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+Interchange Sheffield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+
+
+Counselling_Header
+
+
+Right_Here_Header
+
+
+Y-Act_Header
+
+
+Interchange is an Emotional Wellbeing service for young people under 25 that offers:
+
+
+A counselling and therapy service for young people aged 13-25 which works at Star House and in schools and community settings in different areas of Sheffield. Find out more… 
+
+
+
+
+
+
+Our new service promoting positive emotional well-being and supporting vulnerable groups of young people aged 16-25 in the North East Community Assembly area of Sheffield. Find out more…
+
+
+
+
+
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+
+Right Here Documents
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+Right Here Documents
+
+
+Welcome to the Interchange Right Here Document Library! Click on a document link to view it.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+by admin on June 16, 2011
+
+
+http://www.vimeo.com/25179988
+
+
+About the author
+ 
+
+
+
+
+
+
+
+Cancel reply Leave a Comment
+
+
+Name *
+E-mail *
+Website
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Next post: New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+by admin on June 16, 2011
+
+
+http://www.vimeo.com/25180884
+
+
+About the author
+ 
+
+
+
+
+
+
+
+Cancel reply Leave a Comment
+
+
+Name *
+E-mail *
+Website
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Previous post: New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+Next post: You have a right to feel alright
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+Contact Us
+
+
+If you’d like to contact us, please complete the form below and someone will get in touch.
+
+
+
+
+
+
+Your Name (required)
+ 
+Your Email (required)
+ 
+Subject (Interchange, Right Here, Other)
+ 
+Your Message
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
+
+
+
+Interchange Sheffield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Us
+What we do
+
+
+
+
+
+
+You have a right to feel alright
+by admin on September 13, 2011
+
+
+What does mental health mean to you? For many young people the phrase is meaningless, and as much as ones physical health is looked after, the same cannot be said for their mental health.
+So what is mental health? The way you behave, and the way you feel are all down to your mental health. Whether you feel happy, bored, or sad, it is due to your mental health. When you feel good about yourself you don’t really pay attention to your mental health, however when you feel low and negative about yourself you tend to think about it more.
+If you feel down, lonely, or sad for a prolonged period of time, you do not have to put up with it. You don’t deserve to feel this way. There are places for you to go, things that you can do to make yourself feel better. Just as we are all prone to catching a cough or a cold, we are also prone to experiencing some sort of emotional distress.
+ [click to continue…]
+{ 0 comments }
+
+
+
+
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+by admin on June 16, 2011
+
+
+http://www.vimeo.com/25180884
+{ 0 comments }
+
+
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+June 16, 2011
+
+
+Read the full article →
+
+
+
+
+
+
+ 
+ 
+ 
+  Recent Posts 
+
+You have a right to feel alright
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD ‘Everyone’s Got Mental Health’
+
+
+New Clip from ‘Stigma Deleted’ – our new DVD!  ‘So what is Counselling?’
+
+
+ 
+
+
+
+
+Interchange Sheffield CIC is a community interest company limited by guarantee registered in England number 8237482.
+Registered office: Star House, 43 Division Street, Sheffield, S1 4GE
+Working in partnership with
+Right Here Sheffield which is currently hosted by YMCA White Rose a company limited by guarantee, registered in England and Wales Company number 88583
+Registered office: St Barnabas Centre, Brunswick Road, Rotherham S60 2RR
+YMCA White Rose is also a registered charity no 243410.
+www.ymcawhiterose.org.uk
+
+
+
+
+
+
+
+
